@@ -22,9 +22,7 @@ cargo add mod
 First, ensure that you include the `mod` crate in your project:
 
 ```rust
-extern crate mod;
-
-use mod::{option_to_result, result_to_option};
+use r#mod::{option_to_result, result_to_option};
 ```
 
 ### Function Descriptions

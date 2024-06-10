@@ -22,9 +22,7 @@ cargo add mod
 首先，确保在您的项目中引入了 `mod` 包：
 
 ```rust
-extern crate mod;
-
-use mod::{option_to_result, result_to_option};
+use r#mod::{option_to_result, result_to_option};
 ```
 
 ### 函数说明
