@@ -1,0 +1,15 @@
+[package]
+name = "mod"
+version = "0.1.0"
+edition = "2021"
+categories = ["Rust", "Utility","Developers","Libraries"]
+readme = "README-en.md"
+authors = ["initcool <initcoool@gmail.com>"]
+license = "GPL-3.0-or-later"
+documentation = "https://docs.rs/mod"
+homepage = "https://github.com/limitcool/mod"
+repository = "https://github.com/limitcool/mod"
+keywords = ["Option", "Result", "Error","Type-safe","Converter"]
+description = "mod is a Rust project that provides two simple and useful utility functions for converting between Option and Result types. "
+
+[dependencies]
