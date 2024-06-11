@@ -2,6 +2,10 @@
 
 English| [简体中文](README.md)
 
+[![crates.io](https://img.shields.io/crates/v/mod.svg)](https://crates.io/crates/mod)
+[![Docs](https://docs.rs/mod/badge.svg)](https://docs.rs/mod)
+![MSRV](https://img.shields.io/badge/rustc-1.78.0+-ab6000.svg)
+
 ## Introduction
 
 `mod` is a Rust project that provides two simple and useful utility functions for converting between `Option` and `Result` types. The project includes two main functions:

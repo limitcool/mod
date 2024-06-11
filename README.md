@@ -2,6 +2,11 @@
 
 [English](README-en.md) | 简体中文
 
+[![crates.io](https://img.shields.io/crates/v/mod.svg)](https://crates.io/crates/mod)
+[![Docs](https://docs.rs/mod/badge.svg)](https://docs.rs/mod)
+![MSRV](https://img.shields.io/badge/rustc-1.78.0+-ab6000.svg)
+
+
 ## 简介
 
 `mod` 是一个 Rust 项目，提供了两个简单而实用的工具函数，用于在 `Option` 和 `Result` 类型之间进行转换。这个项目包含两个主要函数：
